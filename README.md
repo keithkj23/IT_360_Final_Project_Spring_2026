@@ -1,9 +1,9 @@
 # IT_360_Final_Project_Spring_2026
 
 # Team Members
-* Member 1
-* Member 2 
-* Member 3
+* Ethan Lechnick
+* Nicholas Dunwoody
+* Keith Mccray
 
 ## Project Ideas
 Place your description details here
